@@ -1,2 +1,2 @@
-# truongle123.github.io
-https://github.com/ngoctienTNT/WomenDay.git
+# WomenDay
+Link web demo: https://ngoctientnt.github.io/WomenDay/
